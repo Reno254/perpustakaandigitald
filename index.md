@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Smart Library Architecture Based on Internet of Things (IoT) and Software Defined Networking (SDN)](ebook/0d4524b2-2b85-4dd3-b813-c62fd5574318.pdf) – Qi Zhou.et al (2024)
 9. [User Perspectives on LINK: A Generative AI Chatbot for Academic Libraries](ebook/0356b4c1-f3d9-4305-8eee-4668099c1aa4.pdf) – Evan Fruehauf.et al (2026)
 10. [Adoption of Artificial Intelligence in Academic Libraries: A Systematic Review of Current Practices, Challenges, and Research Opportunities](ebook/02abd86d-ff55-4cbe-b5f1-e20af97bb6b6.pdf) – Lateef Ayinde.et al (2026)
-11. [Rangkuman Materi UGC_Reno](ebook/Rangkuman_Materi_UGC_Reno.pdf) – Rznxren (2026)
+11. [Rangkuman_Materi_UGC_Reno](ebook/Rangkuman_Materi_UGC_Reno.pdf) – Rznxren (2026)
 ---
 *Powered by GitHub Pages*
