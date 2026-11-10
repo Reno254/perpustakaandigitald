@@ -7,5 +7,10 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Exploring User Experience in Digital Libraries Through Questionnaire and Eye-Tracking Data](ebook/d17251b5-f599-4356-b914-4855c61196b5.pdf) – Maja Kuhar.et al (2022)
 4. [Using Virtual and Augmented Reality in the Library](ebook/cd149b64-6ada-44e8-8115-1161d0433755.pdf) – Bruce E. Massis.et al (2015)
 5. [Using Virtual and Augmented Reality in the Library](ebook/cd149b64-6ada-44e8-8115-1161d0433755.pdf) – Bruce E. Massis.et al (2015)
+6. [Using Virtual and Augmented Reality in the Library](ebook/cd149b64-6ada-44e8-8115-1161d0433755.pdf) – Bruce E. Massis.et al (2015)
+7. [Using Virtual and Augmented Reality in the Library](ebook/cd149b64-6ada-44e8-8115-1161d0433755.pdf) – Bruce E. Massis.et al (2015)
+8. [Using Virtual and Augmented Reality in the Library](ebook/cd149b64-6ada-44e8-8115-1161d0433755.pdf) – Bruce E. Massis.et al (2015)
+9. [Using Virtual and Augmented Reality in the Library](ebook/cd149b64-6ada-44e8-8115-1161d0433755.pdf) – Bruce E. Massis.et al (2015)
+10. [Using Virtual and Augmented Reality in the Library](ebook/cd149b64-6ada-44e8-8115-1161d0433755.pdf) – Bruce E. Massis.et al (2015)
 ---
 *Powered by GitHub Pages*
